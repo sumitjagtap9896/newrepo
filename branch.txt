@@ -1,0 +1,33 @@
+######################################
+01/11/2025
+#saw all python recorded videos
+
+######################################
+02/11/2025
+11.30am - 2 pm -----> revised adv python notes
+3pm - 4pm      -----> revised adv python notes
+4pm - 7pm      -----> WASTE 
+
+######################################
+03/11/2025
+11am - 12.15 pm   -----> revised basic python notes
+12.15pm - 12.30pm -----> revised class covered syllabus upto 02/11/2025
+12.30pm - 1pm     -----> break
+1pm - 1:30 pm     -----> comprehension tech examples practice
+1:30 pm - 2:00    -----> imp question list jotted down 
+
+######################################
+08/11/2025
+10am -12pm   -----> revised and handson file handling , csv , object ser. , exceptn hand.
+12pm-1:30pm  -----> saw ws recorded lecture till 16-16-2025 i.e lambda
+
+######################################
+11/11/2025
+12am -1:30pm   -----> disscussed class and object topic wth sup 
+1:30pm-2:30pm  -----> solved example on class and object 
+5:00pm-7:00 pm -----> solved more example on class and object
+
+######################################
+12/11/2025
+10:30 -12pm   -----> revised and handson file handling , csv , object ser. , exceptn hand.
+
